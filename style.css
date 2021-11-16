@@ -1,0 +1,275 @@
+h1
+{
+  position: relative;
+  left: 680px;
+ bottom: 400px;
+  background-color:rgb(129, 167, 182);
+  display: inline;
+  font-size: 4em;
+  font-weight: bold;
+  font-style: italic;
+}
+#details
+{
+ position: relative;
+right: 200px;
+ top: 250px;
+ display: inline;
+ width: 30em;
+ height: 30em;
+ font-size: 20px;
+ color:rgb(11, 178, 219);
+}
+ #ab
+ {
+
+     color:rgb(22, 168, 161);
+ }
+ #es
+ {
+
+  color:black ;
+  background-color: rgb(71, 206, 183);
+  display: inline;
+
+}
+#manapara
+{
+  color: rgb(19, 182, 194);
+
+}
+#proj
+ {
+
+  color:black ;
+  background-color: rgb(22, 152, 175);
+  display: inline;
+
+}
+
+
+
+
+ #fou
+ {
+  color:black ;
+  background-color: rgb(31, 192, 171);
+  display: inline;
+
+ }
+ #com
+ {
+  color:black ;
+  background-color: rgb(38, 165, 144);
+  display: inline;
+ }
+
+
+
+ 
+
+#uberverdant
+{
+ position: relative;
+right: 50px;
+ top: 250px;
+ display: inline;
+ width: 30em;
+ height: 30em;
+ font-size: 20px;
+}
+ #manaforesta
+{
+  position: relative;
+  left: 200px;
+  top: 300px;
+  display: inline;
+  width: 30em;
+  height: 30em;
+  font-size: 20px;
+ }
+ #manacapitol
+ {
+   position: relative;
+   left: 350px;
+   top: 300px;
+   display: inline;
+   width: 30em;
+   height: 30em;
+   font-size: 20px;
+  }
+
+ body
+ {
+  background-image: url(../positions&transforms/images.html/background.jpg);
+ }
+ 
+ #pname
+ {
+  color:rgb(45, 190, 183) ;
+  background-color: rgb(58, 223, 195);
+  display: inline;
+
+ }
+ #pyear
+ {
+  color:black ;
+  background-color: rgb(33, 202, 214);
+  display: inline;
+
+ }
+#para
+{
+ color: rgb(44, 187, 180);
+}
+#ba 
+{
+  color:rgb(87, 216, 188) ;
+ 
+}
+
+#pname
+ {
+  color:black ;
+  background-color: rgb(62, 204, 185);
+  display: inline;
+
+ }
+ #fname
+ {
+  color:black ;
+  background-color: rgb(87, 204, 179);
+  display: inline;
+
+ }
+#fyear
+{
+
+  color:black ;
+  background-color: rgb(50, 224, 216);
+  display: inline;
+
+
+
+}
+#abc
+{
+  color:rgb(30, 189, 181);
+ 
+}
+#fpara
+{
+color: rgb(34, 211, 218);
+
+}
+
+
+
+#cname
+ {
+  color:black ;
+  background-color: rgb(35, 182, 192);
+  display: inline;
+
+ }
+#cyear
+{
+
+  color:black ;
+  background-color: rgb(39, 202, 175);
+  display: inline;
+
+
+
+}
+#abcd
+{
+  color:rgb(47, 209, 201);
+ 
+}
+#cpara
+{
+
+  color: rgb(56, 160, 179);
+
+}
+
+#logo
+{
+  width: 100px;
+  height: 100px;
+}
+#ceo
+{
+  width: 100px;
+  height: 100px;
+  position: relative;
+  left: 10px;
+  top: 100px;
+  right: 200px;
+  border-radius: 25px;
+  border-width: 5px;
+}
+ #ceo:hover
+ {
+   transform: scale(2, 2);
+ }
+ 
+#uv
+{
+  width: 550px;
+  height: 300px;
+  position: relative;
+  left: 20px;
+  top: 50px;
+  right: 200px;
+  bottom: 200px;
+  border-radius: 25px;
+  border-width: 5px;
+}
+#uv:hover
+ {
+   transform: rotate(180deg);
+ }
+  
+ 
+
+
+#foresta
+{
+  width: 550px;
+  height: 300px;
+  position: relative;
+  left: 20px;
+  top: 10px;
+  
+  border-radius: 25px;
+  border-width: 5px;
+}
+
+#foresta:hover
+{
+  transform: rotate(180deg);
+}
+  
+ 
+
+
+#capitol
+{
+  width: 550px;
+  height: 300px;
+  position: relative;
+  left: 20px;
+  top: 10px;
+  
+  border-radius: 25px;
+  border-width: 5px;
+}
+#capitol:hover
+{
+  transform: rotate(180deg);
+}
+
+ 
+
